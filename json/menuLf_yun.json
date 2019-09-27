@@ -1,0 +1,331 @@
+{
+  "list": [
+    {
+      "id": "1301",
+      "createDate": "2016-05-19 14:15:11",
+      "modifyDate": "2016-07-20 14:55:49",
+      "flag": true,
+      "orders": "4",
+      "name": "首页",
+      "parentId": "12029684246118400",
+      "remark": "区域管理",
+      "url": "/yun/main/index",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/home.png",
+      "mediumBg": "../../images/menuLf/home.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": ""
+    },
+    {
+      "id": "13099eg01",
+      "createDate": "2016-05-19 14:15:11",
+      "modifyDate": "2016-07-20 14:55:49",
+      "flag": true,
+      "orders": "4",
+      "name": "位置监控",
+      "parentId": "12029684246118400",
+      "remark": "区域管理",
+      "url": "/yun/location/index",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/monitoring.png",
+      "mediumBg": "../../images/menuLf/monitoring.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": ""
+    },
+    {
+      "id": "12030099176030208",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "车队管理",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/fleetManage/driverManage",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/fleetManage.png",
+      "mediumBg": "../../images/menuLf/fleetManage.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3741",
+          "url": "/yun/fleetManage/driverManage",
+          "name": "司机管理"
+        },
+        {
+          "id": "3742",
+          "url": "/yun/fleetManage/carManage",
+          "name": "车辆管理"
+        },
+        {
+          "id": "3743",
+          "url": "/yun/fleetManage/approval",
+          "name": "待审批"
+        },
+        {
+          "id": "3744",
+          "url": "/yun/fleetManage/attached",
+          "name": "取消挂靠记录"
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "会员管理",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/memberManage/index",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/memberMange.png",
+      "mediumBg": "../../images/menuLf/memberMange.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": ""
+    },
+    {
+      "id": "030208",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "调度中心",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/schedul/orderManage",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/dispatchCenter.png",
+      "mediumBg": "../../images/menuLf/dispatchCenter.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3e741",
+          "url": "/yun/schedul/orderManage",
+          "name": "订单管理"
+        },
+        {
+          "id": "37rt42",
+          "url": "/yun/schedul/addOrder",
+          "name": "新增派单"
+        },
+        {
+          "id": "374ery3",
+          "url": "/yun/schedul/seleCarrier",
+          "name": "选择承运人"
+        },
+        {
+          "id": "3744rey",
+          "url": "/yun/schedul/carQuery",
+          "name": "车辆查询"
+        }
+      ]
+    },
+    {
+      "id": "1265",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "运输管理",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/transportManage/transportManage",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/transportManage.png",
+      "mediumBg": "../../images/menuLf/transportManage.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3e235235741",
+          "url": "/yun/transportManage/transportManage",
+          "name": "运输管理"
+        },
+        {
+          "id": "37345rt42",
+          "url": "/yun/transportManage/travelManage",
+          "name": "出行管理"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "营销管理",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/marketManage/noticeMarket",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/marketManage.png",
+      "mediumBg": "../../images/menuLf/marketManage.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3e2352335sdgsdg355741",
+          "url": "/yun/marketManage/noticeMarket",
+          "name": "通知营销"
+        },
+        {
+          "id": "37345ewetwtrt42",
+          "url": "/yun/marketManage/noticeRecord",
+          "name": "通知记录"
+        },
+        {
+          "id": "37345ewtrtwet42",
+          "url": "/yun/marketManage/noticeTemplate",
+          "name": "通知模板管理"
+        }
+      ]
+    },
+    {
+      "id": "1215648",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "报表中心",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/report/ordeReport",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/reporCente.png",
+      "mediumBg": "../../images/menuLf/reporCente.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3e235233reytery5sdgsdg355741",
+          "url": "/yun/report/ordeReport",
+          "name": "订单报表"
+        },
+        {
+          "id": "37345ewetsdhsherwtrt42",
+          "url": "/yun/report/caReport",
+          "name": "车辆报表"
+        },
+        {
+          "id": "37345ewtrertertertwet42",
+          "url": "/yun/report/departmentReport",
+          "name": "部门报表"
+        },
+        {
+          "id": "37erytry345ewtrtwet42",
+          "url": "/yun/report/companyReport",
+          "name": "公司报表"
+        }
+      ]
+    },
+    {
+      "id": "1484868",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "结算中心",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/settlement/orderSettlement",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/SettlementCenter.png",
+      "mediumBg": "../../images/menuLf/SettlementCenter.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3e235233wetreytery5sdgsdg355741",
+          "url": "/yun/settlement/orderSettlement",
+          "name": "订单结算管理"
+        },
+        {
+          "id": "37345ewetwetsdhsherwtrt42",
+          "url": "/yun/settlement/waybillSettlement",
+          "name": "运单结算管理"
+        }
+      ]
+    },
+    {
+      "id": "2546848477wet98",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "收款记录",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/yun/paymentRecord/paymentRecord",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/paymentRecord.png",
+      "mediumBg": "../../images/menuLf/paymentRecord.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": ""
+    },
+    {
+      "id": "2546848wetwet47798",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "企业中心",
+      "parentId": "12029684sg246118400",
+      "remark": "角色管理",
+      "url": "/yun/enterpryInfo/enterpryInfo",
+      "type": "1",
+      "large": "",
+      "medium": "../../images/menuLf/BusinessCenter.png",
+      "mediumBg": "../../images/menuLf/BusinessCenter.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "3e235233wetreytery5erysdgsdg355741",
+          "url": "/yun/enterpryInfo/enterpryInfo",
+          "name": "企业信息"
+        },
+        {
+          "id": "37rty345ewetwetsdhsherwtrt42",
+          "url": "/yun/enterpryInfo/administrator",
+          "name": "二级管理员"
+        },
+        {
+          "id": "37345eryeryewetwetsdhsherwtrt42",
+          "url": "/yun/enterpryInfo/changePwd",
+          "name": "修改密码"
+        },
+        {
+          "id": "37345ewetdfhdfhwetsdhsherwtrt42",
+          "url": "/yun/enterpryInfo/systemInfo",
+          "name": "系统消息"
+        }
+      ]
+    }
+  ]
+}
